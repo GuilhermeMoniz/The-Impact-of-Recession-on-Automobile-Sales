@@ -1,0 +1,8 @@
+TASKS:
+
+  1- Create a Dash application and give it a meaningful title
+  2- Add drop-down menus to your dashboard with appropriate titles and options
+  3- Add a division for output display with appropriate id and classname property
+  4- Define the callback function to update the input container based on the selected statistics and the output container
+  5- Create and display graphs for Recession Report Statistics
+  6- Create and display graphs for Yearly Report Statistics
