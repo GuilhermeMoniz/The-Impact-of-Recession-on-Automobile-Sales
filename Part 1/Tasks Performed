@@ -1,11 +1,19 @@
 TASKS:
 
   1- Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year
+
   2- Plot different lines for categories of vehicle type and analyse the trend
+
   3- Use the functionality of Seaborn Library to create a visualization to compare the sales trend per vehicle type for a recession period with a non-recession period
+
   4- Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period
+
   5- Develop a Bubble plot for displaying the impact of seasonality on Automobile Sales
+
   6- Use the functionality of Matplotlib to develop a scatter plot to identify the correlation between average vehicle price relate to the sales volume during recessions
+
   7- Create a pie chart to display the portion of advertising the expenditure during recession and non-recession periods
+
   8- Develop a pie chart to display the total Advertisement expenditure for each vehicle type during recession period
+
   9- Develop a lineplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period
