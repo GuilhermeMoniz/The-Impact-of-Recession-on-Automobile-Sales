@@ -13,6 +13,6 @@ The dataset includes the following variables:
   8.	Price: The average vehicle price during the period
   9.	Advertising_Expenditure: The advertising expenditure of the company
   10.	Vehicle_Type: The type of vehicles sold; Supperminicar, Smallfamiliycar, Mediumfamilycar, Executivecar, Sports
-  11.	Competition: The measure of competition in the market, such as the number of competitors or market share of major manufacturers
+  11.	Competition: The measure of competition in the market, such as, the number of competitors or market share of major manufacturers
   12.	Month: Month of the observation extracted from Date
   13.	Year: Year of the observation extracted from Date
