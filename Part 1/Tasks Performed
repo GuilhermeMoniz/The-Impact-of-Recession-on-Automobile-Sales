@@ -8,7 +8,7 @@ TASKS:
 
   4. Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period
 
-  5- Develop a Bubble plot for displaying the impact of seasonality on Automobile Sales
+  5. Develop a Bubble plot for displaying the impact of seasonality on Automobile Sales
 
   6- Use the functionality of Matplotlib to develop a scatter plot to identify the correlation between average vehicle price relate to the sales volume during recessions
 
