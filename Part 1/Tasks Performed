@@ -4,7 +4,7 @@ TASKS:
 
   2. Plot different lines for categories of vehicle type and analyse the trend
 
-  3- Use the functionality of Seaborn Library to create a visualization to compare the sales trend per vehicle type for a recession period with a non-recession period
+  3. Use the functionality of Seaborn Library to create a visualization to compare the sales trend per vehicle type for a recession period with a non-recession period
 
   4- Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period
 
