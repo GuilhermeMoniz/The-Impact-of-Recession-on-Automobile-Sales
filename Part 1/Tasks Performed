@@ -6,7 +6,7 @@ TASKS:
 
   3. Use the functionality of Seaborn Library to create a visualization to compare the sales trend per vehicle type for a recession period with a non-recession period
 
-  4- Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period
+  4. Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period
 
   5- Develop a Bubble plot for displaying the impact of seasonality on Automobile Sales
 
