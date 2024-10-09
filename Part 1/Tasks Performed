@@ -1,6 +1,6 @@
 TASKS:
 
-  1- Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year
+  1. Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year
 
   2- Plot different lines for categories of vehicle type and analyse the trend
 
